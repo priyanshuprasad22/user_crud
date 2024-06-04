@@ -13,7 +13,7 @@ A simple USER API that performs crud operations.
     npm install
 4.  Set up environment variables:
     ```bash
-    Create a .env file in the root directory and add PORT number 3000 and MONGO URI and JWT SECRET KEY and Base root config.
+    Create a .env file in the root directory and add PORT number 3000 and MONGO URI and JWT SECRET KEY.
 5. Start the server:
    ```bash
    npm start

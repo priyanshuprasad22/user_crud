@@ -7,7 +7,7 @@ A simple USER API that performs crud operations.
     git clone https://github.com/priyanshuprasad22/user_crud.git
 2.  Navigate to the project directory:
     ```bash
-    cd backend
+    cd user_crud
 3.  Install dependencies:
     ```bash
     npm install
